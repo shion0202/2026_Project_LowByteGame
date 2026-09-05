@@ -1,6 +1,6 @@
 # Rhythm Tunnel
 
-![스크린샷 위치]()
+![스크린샷 위치](Screenshot/Screenshot_Play.png)
 
 [게임 플레이 영상 (유튜브)](https://youtu.be/nhpDWR3qPBQ)
 
