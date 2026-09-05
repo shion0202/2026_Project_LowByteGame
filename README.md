@@ -2,6 +2,8 @@
 
 ![스크린샷 위치](Screenshot/Screenshot_Play.png)
 
+[다운로드 링크 (itch.io)](https://verebell.itch.io/rhythm-tunnel)
+
 [게임 플레이 영상 (유튜브)](https://youtu.be/nhpDWR3qPBQ)
 
 ---
@@ -37,10 +39,6 @@
 | 라이브러리 | raylib 6.0 (정적 링크) |
 | 폰트 | 네오둥근모 → `Tools/fontbake.c`로 아틀라스를 소스에 임베드 |
 | 대상 | Windows 10 이상 x64 |
-
-### 다운로드 링크
-
-[itch.io 상점 페이지](https://verebell.itch.io/rhythm-tunnel)
 
 ---
 
