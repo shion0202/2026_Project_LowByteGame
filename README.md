@@ -4,7 +4,7 @@
 
 [다운로드 링크 (itch.io)](https://verebell.itch.io/rhythm-tunnel)
 
-[게임 플레이 영상 (유튜브)](https://youtu.be/nhpDWR3qPBQ)
+[게임 플레이 영상 (유튜브)](https://youtu.be/Ma8L9uF-99w)
 
 ---
 
