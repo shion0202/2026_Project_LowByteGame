@@ -1,23 +1,37 @@
-BSD Zero Clause License
+Rhythm Tunnel
+Written by 정수용 (JEONG SUYONG), 2026
 
-Copyright (c) 2026 정수용 (JEONG SUYONG)
 
-Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted.
+THE UNLICENSE
+=============
 
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
-AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOFTWARE.
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or distribute
+this software, either in source code form or as a compiled binary, for any
+purpose, commercial or non-commercial, and by any means.
+
+In jurisdictions that recognize copyright laws, the author or authors of this
+software dedicate any and all copyright interest in the software to the public
+domain. We make this dedication for the benefit of the public at large and to
+the detriment of our heirs and successors. We intend this dedication to be an
+overt act of relinquishment in perpetuity of all present and future rights to
+this software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <https://unlicense.org/>
 
 
 THIRD-PARTY NOTICES
 ===================
 
-The license above covers the source written for this project. The following
+The dedication above covers the source written for this project. The following
 are not covered by it and keep the licenses they arrived with. Their terms are
 not mine to waive.
 
@@ -55,7 +69,7 @@ license applies to the parts of it that end up in the compiled binary.
 
 이 프로젝트의 소스 코드
 -----------------------
-조건 없이 마음대로 쓰셔도 됩니다.
+퍼블릭 도메인으로 공개합니다. 조건 없이 마음대로 쓰셔도 됩니다.
 복사, 수정, 배포, 상업적 이용 모두 자유이며,
 출처를 밝히거나 라이선스를 남기실 필요도 없습니다.
 
@@ -70,7 +84,8 @@ license applies to the parts of it that end up in the compiled binary.
 이 두 파일만은 예외입니다.
 네오둥근모 폰트의 글자 모양을 비트맵으로 구워 넣은 것이라
 폰트의 라이선스인 SIL Open Font License 1.1을 그대로 따르며,
-여기에는 지켜야 할 조건이 있습니다. 제가 풀 수 있는 권리가 아닙니다.
+여기에는 지켜야 할 조건이 있습니다.
+제가 풀어드릴 수 있는 권리가 아닙니다.
 가져다 쓰실 때는 OFL 조건을 확인해 주세요.
 전문은 Documents/LICENSE-FONT.txt에 있고,
 배포되는 실행 파일에도 함께 들어갑니다.
