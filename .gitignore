@@ -427,3 +427,17 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Rhythm Tunnel
+# Shipped builds go to Releases, not into the history - a 1.2MB blob per
+# update never leaves a repository once it is in one.
+dist/
+
+# Throwaway comparison builds. Recreated whenever a change needs two versions
+# side by side, and nothing in the project reads them.
+vistest/
+
+# Player data. Holds unlocks, wallet and high scores, and every playthrough
+# rewrites it - a tracked save dirties the tree just by running the game.
+save.dat
+hiscore.dat
