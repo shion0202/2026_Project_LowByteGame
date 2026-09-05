@@ -441,3 +441,13 @@ vistest/
 # rewrites it - a tracked save dirties the tree just by running the game.
 save.dat
 hiscore.dat
+
+# Font sources. The atlases in neodgm16.h / neodgm32.h are generated from
+# a TTF that is not ours to redistribute - only the glyphs the UI actually
+# draws are baked into the source, and the original stays out of the tree.
+# (The generated headers ARE tracked: without them nobody can build.)
+*.ttf
+*.otf
+*.ttc
+*.woff
+*.woff2
