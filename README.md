@@ -40,7 +40,7 @@
 
 ### 다운로드 링크
 
-[itch.io 상점 페이지](https://itch.io/)
+[itch.io 상점 페이지](https://verebell.itch.io/rhythm-tunnel)
 
 ---
 
